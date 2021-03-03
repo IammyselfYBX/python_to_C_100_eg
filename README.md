@@ -1,2 +1,1 @@
-# python_to_C_100_eg
-用python重写了C语言经典100例
+# 用python重写了C语言经典100例
